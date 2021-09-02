@@ -3,7 +3,8 @@ This bash script is used to change directories and list all files/folders in tha
 
 # Installation
 ## Auto Install
-I have made the setup of this tool really easy by creating a [install.sh](install.sh) file. To get started using the cl command all you have to do is copy and paste the following command into your terminal.
+I have made the setup of this tool really easy by creating a [install.sh](install.sh) file. 
+To get started using the cl command all you have to do is copy and paste the following command into your terminal.
 ```bash
 git clone https://github.com/VejayDrepaul/cl
 cd cl
