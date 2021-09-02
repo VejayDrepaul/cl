@@ -4,7 +4,7 @@ This bash script is used to change directories and list all the folders and file
 # Usage
 This command uses the [cd](https://en.wikipedia.org/wiki/Cd_(command)) and [ls](https://en.wikipedia.org/wiki/Ls) commands that are standard in Unix and Unix-like operating systems.
 To use the cl command, you would use it as you would the [cd](https://en.wikipedia.org/wiki/Cd_(command)) command. 
-![Screenshot](example.png)
+![Alt text](example.png)
 
 # Installation/Setup
 ## Auto Install
