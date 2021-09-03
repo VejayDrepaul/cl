@@ -23,6 +23,6 @@ git clone https://github.com/VejayDrepaul/cl
 cp .cl.sh ~
 cd
 chmod +x .cl.sh
-echo "source ~/.cl.sh" > ~/.bashrc
+echo "source ~/.cl.sh" >> ~/.bashrc
 source ~/.bashrc
 ```
